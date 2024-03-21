@@ -1,0 +1,7 @@
+[container="marquee"].js-marquee{
+    display: flex !important;
+    flex: 0 0 auto;
+}
+[container="marquee"].js-marquee-wrapper{
+    display: flex !important;
+}
